@@ -1,0 +1,19 @@
+Your program should output number of working days for a particular employee between two given dates. The holidays array between the given dates will be provided as an optional parameter for the function. Saturdays and Sundays will be considered as weekends. Holidays can fall on weekdays as well as weekends.
+
+Todo:
+
+1) Calculate number of days between given two days [Done]
+2) Handle dates in two months and two years years [Done]
+3) Handle date ranges consists of leap years [Done]
+4) Avoid invalid date formats and from and to dates [Done]
+5) Calculate number of weekends between given two days [Done]
+6) Get the date x days before a given date [Done]
+7) Test getTheDateForGivenDaysBeforeADate for leap year [Done]
+8) Test getTheDateForGivenDaysBeforeADate between years [Done]
+9) Test getTheDateForGivenDaysBeforeADate for invalid date formats and Invalid number of days[Done]
+6) Throw and exception if fromdate == todate [Done]
+7) Calculate number of working days including holidays [Done]
+8) Calculate number of working days including holidays for same date on a weekend [Done]
+8) Calculate number of working days excluding holidays [Done]
+9) Calculate number of holidays on working days [Done]
+
